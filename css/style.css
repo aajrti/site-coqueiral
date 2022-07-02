@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+body {
+    background-color: white;
+    color: rgba(0, 0, 0, 1)
+}
+
+footer.rodape {
+    color: cyan;
+    display: flex;
+    align-items: center;
+}
+
+p {
+    text-align: justify;
+    text-indent: 50px;
+    color:cyan;
+}
+
+h3 {
+    color:cyan;
+    text-align: center;
+}
+
+figure.bannertitle {
+    height:"30%";
+    width:"100%";
+}
+
+figure.foto-portal {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+figure.video-praia {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.box {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
